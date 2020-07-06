@@ -1,6 +1,6 @@
 # IPL-First-Inning-Score-Predictor
 • This repository consists of files required to deploy a Machine Learning Web App created with Flask on Heroku platform.
-
+• Deployed App :   https://ipl-firstinning-scorepredictor.herokuapp.com/
 Problem statement:
 
 Build a model to predict the score (in terms of range) of any IPL match.
