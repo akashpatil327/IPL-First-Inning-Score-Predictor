@@ -1,13 +1,13 @@
-# IPL-First-Inning-Score-Predictor
-• This repository consists of files required to deploy a Machine Learning Web App created with Flask on Heroku platform.
-• Deployed App :   https://ipl-firstinning-scorepredictor.herokuapp.com/
+### IPL-First-Inning-Score-Predictor
+• This repository consists of files required to deploy a Machine Learning Web App created with Flask on Heroku platform.<br>
+• Deployed App :   https://ipl-firstinning-scorepredictor.herokuapp.com/<br>
 Problem statement:
 
-Build a model to predict the score (in terms of range) of any IPL match.
+Build a model to predict the score (in terms of range) of any IPL match.<br>
 Dataset:
 
-The dataset 'ipl.csv' consists of ball-to-ball informations about every match of IPL from Season 1 to 10 ie: (2008 to 2017)
-Dataset consists following columns:
+The dataset 'ipl.csv' consists of ball-to-ball informations about every match of IPL from Season 1 to 10 ie: (2008 to 2017)<br>
+Dataset consists following columns:<br>
 • mid: Unique match id.
 • date: Date on which the match was played.
 • venue: Stadium where match was played.
